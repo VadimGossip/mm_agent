@@ -1,0 +1,10 @@
+mm:
+  url:        # mm_server url
+  token:      # bot token
+
+oracle:
+  host:       # host for oracle
+  port:       # port for oracle
+  username:   # username for oracle
+  password:   # password for oracle
+  service:    # service for oracle
